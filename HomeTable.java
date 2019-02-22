@@ -39,6 +39,9 @@ public class HomeTable extends AbstractComponentBuilder {
         QueryResult partsResult = PersistenceHelper.manager.find((StatementSpec) parts);
         return partsResult;
     }
+	
+	public static String dodajMetodeGita(String text){
+		return "to jest test do gita";
 
     public static SearchCondition getSoftTypesSearchCondition(String searchingSoftTypeInternalName) throws WTException {
         boolean includeDescended = true;
