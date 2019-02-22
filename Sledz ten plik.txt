@@ -1,5 +1,6 @@
 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 2
 3
 4
@@ -11,4 +12,10 @@
 10
 =======
 gfgf
+>>>>>>> marekbranch
+=======
+gfgf
+To jest bzdura z marekBranch
+
+Kolejna bzdura z marekBranch
 >>>>>>> marekbranch
