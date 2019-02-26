@@ -1,4 +1,5 @@
 wpis z marekbranch nadpisuje mastera!
+tylko master
 wpis za mastera
 wpis z marekbranch
 tylko marekbranch
