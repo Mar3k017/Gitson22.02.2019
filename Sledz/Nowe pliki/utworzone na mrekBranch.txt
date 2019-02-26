@@ -1,2 +1,3 @@
 wpis za mastera
 wpis z marekbranch
+tylko marekbranch
